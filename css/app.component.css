@@ -52,11 +52,13 @@
   border-radius: 50%;
   background-color: #656CEE;
   opacity: 0.6;
+  z-index: -1;
 }
 
 .background {
-  position: absolute;
+  position: fixed;
   inset: 0;
   background: rgba(255, 255, 255, 0.4);
   backdrop-filter: blur(140px);
+  z-index: -1;
 }/*# sourceMappingURL=app.component.css.map */

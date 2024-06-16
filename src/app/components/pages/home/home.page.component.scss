@@ -1,0 +1,15 @@
+.home-page-container {
+  .title-container {
+    display: flex;
+    gap: 1rem;
+
+    h1 {
+      font-size: 22px;
+      flex: 2;
+    }
+
+    svg {
+      margin-right: 10px;
+    }
+  }
+}

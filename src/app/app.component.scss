@@ -52,11 +52,13 @@
   border-radius: 50%;
   background-color: #656CEE;
   opacity: .6;
+  z-index: -1;
 }
 
 .background {
-  position: absolute;
+  position: fixed;
   inset: 0;
   background: #ffffff66;
   backdrop-filter: blur(140px);
+  z-index: -1;
 }

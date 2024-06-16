@@ -1,1 +1,11 @@
-/*# sourceMappingURL=home.page.component.css.map */
+.home-page-container .title-container {
+  display: flex;
+  gap: 1rem;
+}
+.home-page-container .title-container h1 {
+  font-size: 22px;
+  flex: 2;
+}
+.home-page-container .title-container svg {
+  margin-right: 10px;
+}/*# sourceMappingURL=home.page.component.css.map */
