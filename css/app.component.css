@@ -8,12 +8,12 @@
 .ellips-1 {
   position: absolute;
   top: 169px;
-  left: - 125px;
+  left: -125px;
   width: 205px;
   height: 205px;
   border-radius: 50%;
   background-color: #FBA657;
-  opacity: .6;
+  opacity: 0.6;
   filter: blur(16);
   z-index: -1;
 }
@@ -26,7 +26,7 @@
   height: 226px;
   border-radius: 50%;
   background-color: #FE9B4B;
-  opacity: .6;
+  opacity: 0.6;
   filter: blur(100);
   z-index: -1;
 }
@@ -39,7 +39,7 @@
   height: 296px;
   border-radius: 50%;
   background-color: #656CEE;
-  opacity: .6;
+  opacity: 0.6;
   z-index: -1;
 }
 
@@ -51,12 +51,12 @@
   height: 296px;
   border-radius: 50%;
   background-color: #656CEE;
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .background {
   position: absolute;
   inset: 0;
-  background: #ffffff66;
+  background: rgba(255, 255, 255, 0.4);
   backdrop-filter: blur(140px);
-}
+}/*# sourceMappingURL=app.component.css.map */
