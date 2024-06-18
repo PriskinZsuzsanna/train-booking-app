@@ -1,0 +1,25 @@
+.home-departure-container {
+  padding: 1.25rem 1rem 1rem;
+  border-radius: 0.5rem;
+  background: white;
+  backdrop-filter: blur(200px);
+}
+
+p {
+  font-size: 11px;
+}
+
+.label {
+  color: #656CEE;
+}
+
+.home-departure-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-departure-body {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=home-departure.component.css.map */
